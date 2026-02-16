@@ -1,9 +1,5 @@
 # 🟢 Semana 1 --- Git, GitHub y Entorno Local
 
-## ⏱ Duración estimada
-
-5--7 horas
-
 ## 🎯 Objetivo de la semana
 
 Al terminar esta semana debes poder:
